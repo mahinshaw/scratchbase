@@ -1,0 +1,3 @@
+# Introduction to scratchbase
+
+TODO: write [great documentation](http://jacobian.org/writing/what-to-write/)
